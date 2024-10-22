@@ -1,0 +1,16 @@
+print("Numero mayor")
+#López Reyes Falcon # your own code
+#3ADM # your own code
+#ciencia de datos e informacion # your own code
+print("El mayor de los numeros es\n")
+#Entrada de variables # your own code
+n1 = int(input("Dame un numero:"))
+n2 = int(input("Dame otro numero:"))
+n3 = int(input("Dame otro numero:"))
+#Condicion
+if n1 > n2:
+  print("El numero mayor es: ",n1)
+elif n2 > n3:
+  print("El numero mayor es: ",n2)
+else:
+  print("El numero mayor es: ",n3)
